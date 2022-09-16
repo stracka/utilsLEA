@@ -1,0 +1,7 @@
+pandas
+numpy
+matplotlib
+pybind11==2.9.2
+tables
+uproot3
+uproot4
